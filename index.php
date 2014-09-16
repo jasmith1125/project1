@@ -12,7 +12,7 @@
   </head>
     <div class="row">
       <div class="small-9 small-centered columns">
-        <h1>Dynamic Web Applications</h1>
+        <h1 id="top">Dynamic Web Applications</h1>
         <hr class="horizrule" />
           <h2>JOYCE SMITH</h2>
             <h3>PORTFOLIO</h3>
@@ -24,20 +24,20 @@
       </div>
       </div>
      <div class="row">
-      <div class="medium-3 medium-offset-1 small-4 columns">
-        <h4>Project 1</h4>
-        <p class="linktext">View: [link]<br />
-        Github: [link] </p>
-        </div>
-      <div class="medium-3 medium-offset-1 small-4 columns">
+      <div class="medium-4 columns">
         <h4>Project 2</h4>
-          <p class="linktext">View: [link]<br />
-        Github: [link] </p>
+        <p class="linktext">View: p2.jasmith1125.me<br />
+        Github: github.com/jasmith1125/project2</p>
         </div>
-<div class="medium-3 medium-offset-1 small-4 columns">
+      <div class="medium-4 columns">
         <h4>Project 3</h4>
-          <p class="linktext">View: [link]<br />
-        Github: [link] </p>
+          <p class="linktext">View: p3.jasmith1125.me<br />
+        Github: github.com/jasmith1125/project3</p>
+        </div>
+<div class="medium-4 columns">
+        <h4>Project 4</h4>
+          <p class="linktext">View: p4.jasmith1125.me<br />
+        Github: github.com/jasmith1125/project4</p>
         </div>
          <div class="row">
          <hr class="small-12 small-centered columns horizrule " />
@@ -48,7 +48,7 @@
        <h4>In 2+ sentences describe who you are and what you do</h4>
        <p>I&rsquo;m a one-person marketing communications department for a federally funded West Michigan agency that provides housing assistance to low-income households. Part of my job is to design, develop and maintain an organizational website that explains our programs and offers portals to online applications, forms and partner sites. My educational background is journalism/media.</p>
         <h4>Why are you taking this class?</h4>
-        <p>I&rsquo;m hoping to gain tools that will make my employer&rsquo;s website more accessible and interactive for users. I also enjoy web development and am interested in expanding my skills in this field.</p>
+        <p>I&rsquo;m hoping to gain tools that will make my employer&rsquo;s website more accessible and interactive for users. I also enjoy web development and am interested in expanding my skills in this field, particularly in the areas of user experience and responsive design.</p>
         </div>
   
       <div class="large-6 small-12 columns">
@@ -58,6 +58,9 @@
         <p>I am working on a Mac.</p>
         <h4>Anything else we should know?</h4>
         <p>I&rsquo;ll be doing the Jing screencasts for my projects at home where I hang out with kids and a strangely vocal dog. Any inexplicable sound effects in my screencasts will be due to circumstances beyond my control.</p>
+        <div id="goUp">
+          <p><a href="#top">Back to top</a></p>
+        </div>
       </div>
     
     

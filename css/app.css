@@ -66,3 +66,17 @@ hr.horizrule {
 img {
 	padding-bottom: 2em;
 }
+.linktext {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: .9em;
+    margin-bottom: 0;
+}
+#goUp {
+   font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1em;
+    margin: 1.5em 0 1em 0; 
+}
