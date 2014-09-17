@@ -24,17 +24,17 @@
       </div>
       </div>
      <div class="row">
-      <div class="medium-4 columns">
+      <div class="medium-3 medium-offset-1 columns">
         <h4>Project 2</h4>
         <p class="linktext">View: p2.jasmith1125.me<br />
         Github: github.com/jasmith1125/project2</p>
         </div>
-      <div class="medium-4 columns">
+      <div class="medium-3 medium-offset-1 columns">
         <h4>Project 3</h4>
           <p class="linktext">View: p3.jasmith1125.me<br />
         Github: github.com/jasmith1125/project3</p>
         </div>
-<div class="medium-4 columns">
+<div class="medium-3 medium-offset-1 columns">
         <h4>Project 4</h4>
           <p class="linktext">View: p4.jasmith1125.me<br />
         Github: github.com/jasmith1125/project4</p>
