@@ -39,9 +39,9 @@
           <p class="linktext">View: p4.jasmith1125.me<br />
         Github: github.com/jasmith1125/project4</p>
         </div>
+      </div>
          <div class="row">
          <hr class="small-12 small-centered columns horizrule " />
-       </div>
       </div>
       <div class="row">
       <div class="large-6 small-12 columns">
@@ -49,7 +49,6 @@
        <p>I&rsquo;m a one-person marketing communications department for a federally funded West Michigan agency that provides housing assistance to low-income households. Part of my job is to design, develop and maintain an organizational website that explains our programs and offers portals to online applications, forms and partner sites. My educational background is journalism/media.</p>
         <h4>Why are you taking this class?</h4>
         <p>I&rsquo;m hoping to gain tools that will make my employer&rsquo;s website more accessible and interactive for users. I also enjoy web development and am interested in expanding my skills in this field, particularly in the areas of user experience and responsive design.</p>
-        </div>
         </div>
       <div class="large-6 small-12 columns">
         <h4>What previous experience do you have with programming?</h4>
@@ -62,7 +61,7 @@
           <p><a href="#top">Back to top</a></p>
         </div>
       </div>
-    
+      </div>
     
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
