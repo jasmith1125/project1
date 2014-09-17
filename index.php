@@ -6,7 +6,7 @@
     <title>Joyce Smith DWA Portfolio</title>
     <link rel="stylesheet" href="css/foundation.css" />
      <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script|Open+Sans:400,300,600|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script%7cOpen+Sans:400,300,600%7cOpen+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" href="css/app.css" />
     <script src="js/vendor/modernizr.js"></script>
   </head>
@@ -50,7 +50,7 @@
         <h4>Why are you taking this class?</h4>
         <p>I&rsquo;m hoping to gain tools that will make my employer&rsquo;s website more accessible and interactive for users. I also enjoy web development and am interested in expanding my skills in this field, particularly in the areas of user experience and responsive design.</p>
         </div>
-  
+        </div>
       <div class="large-6 small-12 columns">
         <h4>What previous experience do you have with programming?</h4>
         <p>I have been working through online tutorials in preparation for this class. Other than that, I have no experience with programming.</p>
@@ -58,7 +58,7 @@
         <p>I am working on a Mac.</p>
         <h4>Anything else we should know?</h4>
         <p>I&rsquo;ll be doing the Jing screencasts for my projects at home where I hang out with kids and a strangely vocal dog. Any inexplicable sound effects in my screencasts will be due to circumstances beyond my control.</p>
-        <div id="goUp">
+        <div id="goUp" class="show-for-small-only">
           <p><a href="#top">Back to top</a></p>
         </div>
       </div>

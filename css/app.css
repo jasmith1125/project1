@@ -2,29 +2,12 @@
 /* Author: Joyce Smith
    Project 1 */
 
-
-@font-face {
-    font-family: 'Kaushan Script', cursive;
-    font-weight: normal;
-    font-style: normal;
-
-}
-@font-face {
-	font-family: 'Open Sans', sans-serif;
-}
-@font-face {
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-weight: normal;
-	font-style: normal;
-}
-
 h1 {
     font-family: 'Kaushan Script', cursive;
     font-weight: normal;
     font-style: normal;
     text-align: center;
     font-size: 2.6em;
-    //padding-bottom: .5em;
 }
 h2 {
 	font-family: 'Open Sans', sans-serif;
@@ -51,6 +34,13 @@ h4 {
 body {
 	font-family: 'Open Sans', sans-serif;
 
+}
+a:link {
+    color: #177F75;
+}
+a:hover {
+    color: #7D1721;
+    text-decoration: underline;
 }
 /* Background pattern from subtlepatterns.com */
 body {
