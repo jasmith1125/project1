@@ -38,15 +38,18 @@ body {
 a:link {
     color: #177F75;
 }
+a:visited {
+    color: #177F75;
+}
 a:hover {
     color: #7D1721;
     text-decoration: underline;
 }
-/* Background pattern from subtlepatterns.com */
-body {
-background-image: url(img/seamless_paper_texture.png);
-   background-size: auto;
+a:active {
+    color: #7D1721;
+    text-decoration: underline;
 }
+
 /* Single-direction drop shadow, http://css-tricks.com/examples/hrs/ */		
 hr.horizrule {
     height: 9px;
