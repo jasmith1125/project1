@@ -27,17 +27,17 @@
       <div class="medium-3 medium-offset-1 columns">
         <h4>Project 2</h4>
         <p class="linktext">View: <a href="http://p2.jasmith1125.me">p2.jasmith1125.me</a><br />
-        Github: <a href="http://github.com/jasmith1125/project2">github.com/jasmith1125/project2</a></p>
+        Github: <a href="https://github.com/jasmith1125/project2">github.com/jasmith1125/project2</a></p>
         </div>
       <div class="medium-3 medium-offset-1 columns">
         <h4>Project 3</h4>
           <p class="linktext">View: <a href="http://p3.jasmith1125.me">p3.jasmith1125.me</a><br />
-        Github: <a href="http://github.com/jasmith1125/project3">github.com/jasmith1125/project3</a></p>
+        Github: <a href="https://github.com/jasmith1125/project3">github.com/jasmith1125/project3</a></p>
         </div>
 <div class="medium-3 medium-offset-1 columns">
         <h4>Project 4</h4>
           <p class="linktext">View: <a href="http://p4.jasmith1125.me">p4.jasmith1125.me</a><br />
-        Github: <a href="http://github.com/jasmith1125/project4">github.com/jasmith1125/project4</a></p>
+        Github: <a href="https://github.com/jasmith1125/project4">github.com/jasmith1125/project4</a></p>
         </div>
       </div>
          <div class="row">
